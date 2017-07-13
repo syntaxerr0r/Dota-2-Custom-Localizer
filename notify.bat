@@ -1,0 +1,12 @@
+set /p lang=<Language.txt
+set step1_name="Getting Dota 2 path"
+set step1_loop_notice="Please wait a minute. If it takes longer than 2 minute, press P to manually enter Dota 2 path"
+set step1_manual="Can not automatically get Dota 2 path"
+set step1_manual_steam="Enter Steam directory: "
+set step1_manual_dota="Enter Dota 2 directory: "
+set step1_manual_error="Error! Please try again"
+set step2_installing="Installing Dota 2 Launcher"
+set finish="All done! Run Dota 2 with the shortcut Dota 2 %lang% in Desktop."
+set launcher_updating="Checking update..."
+set launcher_updating_yes="New version is available. Please update."
+set launcher_localizer_need_update="New localizer version is available. Updating..."
